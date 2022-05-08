@@ -26,11 +26,21 @@ The analysis of the election show that:
     - Raymon Anthony Doan received 3.1% of the vote with 11,606 total number of votes.
 - The winner of the election was: 
     - Diana DeGette who received 73.8% of the vote with 272,892 total number of votes.
+- There were 3 Counties that cast votes in the election. 
+- The counties and results were:
+    - Jefferson County cast 10.5% of the total votes with 38,855 total votes cast.
+    - Denver County cast 82.8% of the votes with 306,055 total votes cast in the election.
+    - Arapahoe County case 6.7% of the votes with 11,606 total votes cast in the election. 
+- The Largest County Turnout was Denver with 82.8%    
 
-![image](https://user-images.githubusercontent.com/103547108/167306047-2b4e1fc3-48fc-42b5-86a4-f07decb1f9b2.png)
+![image](https://user-images.githubusercontent.com/103547108/167306495-64271f25-bcef-47d8-8e80-930d4b3d3129.png)
 
-## Challenge Overview
-I was challenged with ensuring the syntax for Python was correct. 
+ - These results are also saved here: https://github.com/dhinton22/Election_Analysis/blob/4e8c68054b179cbe757940fa553e383242b470e7/election_analysis.txt
 
-## Challenge Summary
-I greatly relied on Visual Studio Code to prevent syntax errors. 
+## Challenge Overview and Summary
+I was challenged with ensuring the syntax for Python was correct. I greatly relied on Visual Studio Code to prevent syntax errors. 
+
+## Election-Audit Summary
+This code can be modified to analyze broader regions. For example:
+    - You can modify the code from counties to states. This modification could greatly assist in analyzing the data on a nation-wide scale versus a state-wide scale. 
+    - You can modify the code to analyze votes in a school elections by changing the counties to grade levels. 
