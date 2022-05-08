@@ -43,6 +43,6 @@ The analysis of the election show that:
 I was challenged with ensuring the syntax for Python was correct. I greatly relied on Visual Studio Code to prevent syntax errors. 
 
 ## Election-Audit Summary
-This code can be modified to analyze broader regions. For example:
+- This code can be modified to analyze broader regions. For example:
     - You can modify the code from counties to states. This modification could greatly assist in analyzing the data on a nation-wide scale versus a state-wide scale. 
     - You can modify the code to analyze votes in a school elections by changing the counties to grade levels. 
