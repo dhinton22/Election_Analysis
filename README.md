@@ -27,8 +27,10 @@ The analysis of the election show that:
 - The winner of the election was: 
     - Diana DeGette who received 73.8% of the vote with 272,892 total number of votes.
 
+![image](https://user-images.githubusercontent.com/103547108/167306047-2b4e1fc3-48fc-42b5-86a4-f07decb1f9b2.png)
+
 ## Challenge Overview
-I was challenged with with the with() statements. It was difficult for me to determine when the for loop should be included in the with statement and when it should not be. 
+I was challenged with ensuring the syntax for Python was correct. 
 
 ## Challenge Summary
-Despite the challenges, I prevailed. 
+I greatly relied on Visual Studio Code to prevent syntax errors. 
